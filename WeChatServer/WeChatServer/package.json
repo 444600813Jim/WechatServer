@@ -1,0 +1,9 @@
+{
+  "name": "we-chat-server",
+  "version": "0.0.0",
+  "description": "WeChatServer",
+  "main": "server.js",
+  "author": {
+    "name": "Administrator"
+  }
+}
